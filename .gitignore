@@ -1,0 +1,28 @@
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+*.rsuser
+*.sln.docstates
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.exp
+*.res
+*.exe.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.VC.db
+*.VC.opendb
